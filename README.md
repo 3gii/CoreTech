@@ -23,7 +23,7 @@
 
 ----/function.php --为系统功能类，用于集成开发新APP
 
-----/config.php -- 为系统配置文件，其中生成的KEY不要随意修改
+----/config.php -- 为系统配置文件
 
 --/theme
 
